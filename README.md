@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Tarex
+- 👀 I’m interested in robotic, vision systems and software development.
